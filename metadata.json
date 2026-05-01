@@ -1,0 +1,6 @@
+{
+  "name": "Morbit",
+  "description": "A high-performance earnings tracker with dark mode, AI-powered summaries, and interactive financial growth charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Summarization", "Financial Tracking", "PDF Reports"]
+}
